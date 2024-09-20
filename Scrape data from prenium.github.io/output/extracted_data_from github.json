@@ -1,0 +1,33 @@
+{
+    "Projects": [
+        {
+            "Title": "Rotary Pendulum RL",
+            "Description": "Open Source project aimed at controlling a real life rotary pendulum using RL algorithms",
+            "Links": [
+                "https://perinim.github.io/projects/rotary-pendulum-rl/"
+            ]
+        },
+        {
+            "Title": "DQN Implementation from scratch",
+            "Description": "Developed a Deep Q-Network algorithm to train a simple and double pendulum",
+            "Links": [
+                "https://github.com/PeriniM/DQN-SwingUp"
+            ]
+        },
+        {
+            "Title": "Multi Agents HAED",
+            "Description": "University project which focuses on simulating a multi-agent system to perform environment mapping. Agents, equipped with sensors, explore and record their surroundings, considering uncertainties in their readings.",
+            "Links": [
+                "https://perinim.github.io/competitions/",
+                "https://perinim.github.io/cv/"
+            ]
+        },
+        {
+            "Title": "Wireless ESC for Modular Drones",
+            "Description": "Modular drone architecture proposal and proof of concept. The project received maximum grade.",
+            "Links": [
+                "https://perinim.github.io/projects/wireless-esc-drone/"
+            ]
+        }
+    ]
+}
